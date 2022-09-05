@@ -67,7 +67,7 @@ const Footer = () => {
           </Col>
         </Row>
         <Row className="mt-5">
-          <Col lg="6" md="6"><p className="copyright">Coyright - 2022, Made with love by GeezTech Systems. All rights Reserved</p></Col>
+          <Col lg="6" md="6"><p className="copyright">Copyright - 2022, Made with love by GeezTech Systems. All rights Reserved</p></Col>
           <Col lg="6" md="6">
             <div className="social__links d-flex align-items-center gap-5 justify-content-end">
               <p className="m-0">Follow: </p>
